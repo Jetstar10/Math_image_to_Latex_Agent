@@ -1,0 +1,7 @@
+{
+  "name": "MathSnap LaTeX",
+  "description": "Convert images of mathematical equations into LaTeX code using Gemini 3.1 Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
